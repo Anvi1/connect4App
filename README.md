@@ -1,4 +1,5 @@
 # connect4Game
+ I have used AngularJS because this project is single page application and lightweight. There is no need to develop it through component based architecture, else it would be a bit heavy corresponding to the task.
  
  Installation Dependencies:
  
@@ -14,7 +15,7 @@
  
  2)Run this command --> karma start karma.conf.js
  
-
+ 
 
 About the game:
 
@@ -28,4 +29,4 @@ Variation – Pop Out
 
 In this variation, a player has another type of move to make: popping out a piece of his/her color from the bottom row. So popping a piece out from the bottom drops every disc above it down one space.  A popped out piece goes back to the player and can be used in subsequent turns. 
 
-The same player needs to place the new piece at any position just after popping.
+Please note considering that the same player needs to place the new piece at any position just after popping.
